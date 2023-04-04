@@ -1,0 +1,13 @@
+fixed_param
+gbtree
+0.6
+mae
+2
+2
+0.05
+6
+10
+reg:squarederror
+88
+0.6
+gpu_hist
