@@ -5,7 +5,7 @@
 
 如图1所示，用户日常用电由两部分组成：太阳能发电和从电力市场购买。太阳能发电量受环境太阳能量辐射强度有关，表示为P(W)=![enter image description here](https://img.alicdn.com/imgextra/i3/O1CN012Hd3Ft1ghjx1iGj1C_!!6000000004174-2-tps-14-19.png)EA，其中E为太阳光辐射强度，单位为W/![enter image description here](https://img.alicdn.com/imgextra/i3/O1CN01gapQGm1cDjXXJ4ETU_!!6000000003567-2-tps-16-21.png),A=2为太阳能电池板面积，单位为![enter image description here](https://img.alicdn.com/imgextra/i3/O1CN01gapQGm1cDjXXJ4ETU_!!6000000003567-2-tps-16-21.png),![enter image description here](https://img.alicdn.com/imgextra/i3/O1CN012Hd3Ft1ghjx1iGj1C_!!6000000004174-2-tps-14-19.png)=0.5为太阳能电池板转换效率。当太阳能供给不足时，用户从电力市场购买额外电能。
 
-问题：给定用户平均每日总用电需求，以及与太阳能生产量相关的历史环境信息，对用户未来太阳能生产量进行预测。
+问题：给定用户平均每日总用电需求，以及与太阳能生产量相关的历史环境信息，对用户未来太阳能生产量进行预测（https://tianchi.aliyun.com/competition/entrance/532022/information）。
 
 #### 基础环境：
 
